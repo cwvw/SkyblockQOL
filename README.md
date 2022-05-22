@@ -1,2 +1,12 @@
 # SkyblockQOL
-Hypixel Skyblock QOL mods / This is just a collection of mods I have found and put them in one group. I have NOT made anything here
+Hypixel Skyblock QOL mods / clients
+------
+⚠️ None of these mods are made by me, all come from their original websites / discords ⚠️
+
+What are these mods?
+-----
+These mods are for Hypixel Skyblock to make your experience better
+
+Are these mods bannable?
+-----
+These mods are use-at-your-own-risk
