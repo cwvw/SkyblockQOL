@@ -1,5 +1,6 @@
 # IllegalMap
 https://github.com/UnclaimedBloom6/IllegalMap
+https://github.com/ChatTriggers/ChatTriggers
 
 v3.2.2 changelog
 -----
